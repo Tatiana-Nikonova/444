@@ -1,0 +1,22 @@
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+h1, p {
+	font-family: 'Roboto Slab', serif; 
+  	
+}
+h1 {
+	text-shadow:3px 3px #333;
+	color: red;
+	text-align: center;
+}
+p {
+	font: 20px 400  #333;
+	text-align: justify;
+  	text-indent: 25px;
+}
+span {
+	color: blue;
+	font-style: italic;
+}
